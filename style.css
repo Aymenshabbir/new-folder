@@ -1,0 +1,11 @@
+.main-theme-color{
+    background-color: rgb(35, 35, 131);
+}
+.hero-image {
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-aurora-borealis-also-known-as-northern-lights-is-seen-news-photo-1052156342-1553524605.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: auto; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
